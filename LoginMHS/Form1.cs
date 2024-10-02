@@ -260,7 +260,10 @@ namespace LoginMHS
             this.Hide();
         }
 
-       
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Project_Main_Load(null, null);
+        }
 
         private void Project_Main_Load(object sender, EventArgs e)
         {
