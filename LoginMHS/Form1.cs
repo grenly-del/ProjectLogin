@@ -265,6 +265,13 @@ namespace LoginMHS
             Project_Main_Load(null, null);
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FormAkunUser formAkunUser = new FormAkunUser();
+            formAkunUser.Show();
+            this.Hide();
+        }
+
         private void Project_Main_Load(object sender, EventArgs e)
         {
             try

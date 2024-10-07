@@ -44,3 +44,4 @@ C:\Users\Lenovo\source\repos\LoginMHS\LoginMHS\bin\Debug\CrystalDecisions.Report
 C:\Users\Lenovo\source\repos\LoginMHS\LoginMHS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
 C:\Users\Lenovo\source\repos\LoginMHS\LoginMHS\bin\Debug\stdole.dll
 C:\Users\Lenovo\source\repos\LoginMHS\LoginMHS\obj\Debug\LoginMHS.ReportsData.resources
+C:\Users\Lenovo\source\repos\LoginMHS\LoginMHS\obj\Debug\LoginMHS.FormAkunUser.resources
