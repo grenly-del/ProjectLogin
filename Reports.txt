@@ -1,0 +1,22 @@
+Tugas Crystal Report Pertama ( Menampilkan Semua Data Di Report )
+
+Koneksi ODBC : 
+
+Data Source Name  : latihanMhs
+TCP/IP Server     : localhost 
+Port              : 3306
+User              : root
+password          : ''
+Database          : db_mahasiswa
+
+
+Tugas Crystal Report Kedua ( Filter Bedasarkan Username )
+
+Koneksi ODBC : 
+
+Data Source Name  : latihanMhs 
+TCP/IP Server     : localhost 
+Port              : 3306s
+User              : root
+password          : ''
+Database          : db_mahasiswa
